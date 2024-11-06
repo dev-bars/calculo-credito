@@ -1,0 +1,12 @@
+.CardsPropsContainer {
+    margin: 10px;
+    background-color: #a09f9f;
+    border: 2px solid #888;
+}
+
+.CardsPropsContent {
+    color: #fff;
+    background-color: #333;
+    margin: 0;
+}
+
